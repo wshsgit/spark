@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sparkcore_accumulator" />
+        <module name="sparkcore_cdn" />
+        <module name="sparkcore_partitioner" />
+        <module name="sparkcore_wordcount" />
+        <module name="sparkgraphx_helloworld" />
+        <module name="sparkgraphx_pagerank" />
+        <module name="sparkgraphx_practice" />
+        <module name="sparkmllib_collaborative_filtering" />
+        <module name="sparkmllib_decision_tree" />
+        <module name="sparkmllib_fpgrowth" />
+        <module name="sparkmllib_kmeans" />
+        <module name="sparkmllib_linear_regression" />
+        <module name="sparksql_helloworld" />
+        <module name="sparksql_hive" />
+        <module name="sparksql_practice" />
+        <module name="sparksql_safeMyAverage" />
+        <module name="sparksql_unsafeMyAverage" />
+        <module name="sparkstreaming_customerReceiver" />
+        <module name="sparkstreaming_helloworld" />
+        <module name="sparkstreaming_kafka" />
+        <module name="sparkstreaming_queueRdd" />
+        <module name="sparkstreaming_statefulWordCount" />
+        <module name="sparkstreaming_windowWordCount" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spark" target="1.8" />
+      <module name="sparkCore" target="1.8" />
+      <module name="sparkcore_accumulator" target="1.8" />
+      <module name="sparkcore_cdn" target="1.8" />
+      <module name="sparkcore_partitioner" target="1.8" />
+      <module name="sparkcore_wordcount" target="1.8" />
+      <module name="sparkGraphx" target="1.8" />
+      <module name="sparkgraphx_helloworld" target="1.8" />
+      <module name="sparkgraphx_pagerank" target="1.8" />
+      <module name="sparkgraphx_practice" target="1.8" />
+      <module name="sparkMLlib" target="1.5" />
+      <module name="sparkmllib_collaborative_filtering" target="1.5" />
+      <module name="sparkmllib_decision_tree" target="1.5" />
+      <module name="sparkmllib_fpgrowth" target="1.5" />
+      <module name="sparkmllib_kmeans" target="1.5" />
+      <module name="sparkmllib_linear_regression" target="1.5" />
+      <module name="sparkSql" target="1.8" />
+      <module name="sparksql_helloworld" target="1.8" />
+      <module name="sparksql_hive" target="1.8" />
+      <module name="sparksql_practice" target="1.8" />
+      <module name="sparksql_safeMyAverage" target="1.8" />
+      <module name="sparksql_unsafeMyAverage" target="1.8" />
+      <module name="sparkStreaming" target="1.8" />
+      <module name="sparkstreaming_customerReceiver" target="1.8" />
+      <module name="sparkstreaming_helloworld" target="1.8" />
+      <module name="sparkstreaming_kafka" target="1.8" />
+      <module name="sparkstreaming_queueRdd" target="1.8" />
+      <module name="sparkstreaming_statefulWordCount" target="1.8" />
+      <module name="sparkstreaming_windowWordCount" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

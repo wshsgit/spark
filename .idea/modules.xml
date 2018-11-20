@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spark.iml" filepath="$PROJECT_DIR$/spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkCore.iml" filepath="$PROJECT_DIR$/sparkCore/sparkCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/sparkSql.iml" filepath="$PROJECT_DIR$/sparkSql/sparkSql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/sparkStreaming.iml" filepath="$PROJECT_DIR$/sparkStreaming/sparkStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_accumulator/sparkcore_accumulator.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_accumulator/sparkcore_accumulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_cdn/sparkcore_cdn.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_cdn/sparkcore_cdn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_partitioner/sparkcore_partitioner.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_partitioner/sparkcore_partitioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkcore_wordcount/sparkcore_wordcount.iml" filepath="$PROJECT_DIR$/sparkCore/sparkcore_wordcount/sparkcore_wordcount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/sparksql_helloworld/sparksql_helloworld.iml" filepath="$PROJECT_DIR$/sparkSql/sparksql_helloworld/sparksql_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/sparksql_hive/sparksql_hive.iml" filepath="$PROJECT_DIR$/sparkSql/sparksql_hive/sparksql_hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/sparksql_practice/sparksql_practice.iml" filepath="$PROJECT_DIR$/sparkSql/sparksql_practice/sparksql_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/sparksql_safeMyAverage/sparksql_safeMyAverage.iml" filepath="$PROJECT_DIR$/sparkSql/sparksql_safeMyAverage/sparksql_safeMyAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/sparksql_unsafeMyAverage/sparksql_unsafeMyAverage.iml" filepath="$PROJECT_DIR$/sparkSql/sparksql_unsafeMyAverage/sparksql_unsafeMyAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_customerReceiver/sparkstreaming_customerReceiver.iml" filepath="$PROJECT_DIR$/sparkStreaming/sparkstreaming_customerReceiver/sparkstreaming_customerReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_helloworld/sparkstreaming_helloworld.iml" filepath="$PROJECT_DIR$/sparkStreaming/sparkstreaming_helloworld/sparkstreaming_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_kafka/sparkstreaming_kafka.iml" filepath="$PROJECT_DIR$/sparkStreaming/sparkstreaming_kafka/sparkstreaming_kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_queueRdd/sparkstreaming_queueRdd.iml" filepath="$PROJECT_DIR$/sparkStreaming/sparkstreaming_queueRdd/sparkstreaming_queueRdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_statefulWordCount/sparkstreaming_statefulWordCount.iml" filepath="$PROJECT_DIR$/sparkStreaming/sparkstreaming_statefulWordCount/sparkstreaming_statefulWordCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkStreaming/sparkstreaming_windowWordCount/sparkstreaming_windowWordCount.iml" filepath="$PROJECT_DIR$/sparkStreaming/sparkstreaming_windowWordCount/sparkstreaming_windowWordCount.iml" />
+    </modules>
+  </component>
+</project>
